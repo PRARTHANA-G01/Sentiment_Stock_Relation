@@ -21,3 +21,8 @@ Techniques such as moving averages, autoregression, and differencing are applied
 ### Random Forest
 The Random Forest classifier, an ensemble machine learning method, is applied to predict stock price movement.
 By training on sentiment and stock price data, the Random Forest model can learn to recognize complex patterns in the data, providing robust predictions on the direction of stock prices.
+
+##References :
+1.https://www.researchgate.net/publication/372833861_Power_of_280_Measuring_the_Impact_of_Elon_Musk's_Tweets_on_the_Stock_Market
+2.https://ieeexplore.ieee.org/document/7955659/figures#figures
+3.https://www.diva-portal.org/smash/get/diva2:1302299/FULLTEXT01.pdf
